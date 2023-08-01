@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RedipS17
+- 👀 I’m interested in Data_analytics
+- 🌱 I’m currently learning SQL n BigQuery 
+- 💞️ I’m looking to collaborate on any projects that can welcome a junior analyst for free
+- 📫 How to reach me https://www.linkedin.com/in/redionfusha/
